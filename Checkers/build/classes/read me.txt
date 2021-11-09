@@ -1,0 +1,4 @@
+"bias", "oponent_soldiers", "my_soldiers", "oponent_kings", "my_kings", "oponent in attack", "me in attack"
+22.0 -1.0 1.0 -3.0 3.0 -3.0 3.0
+
+22.0 1.0 1.0 3.0 3.0 3.0 3.0
